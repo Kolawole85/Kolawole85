@@ -42,7 +42,7 @@ tests
 ## Featured Repositories
 | Folder | Description | Link |
 |--------|-------------|------|
-| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](#) |
+| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/Kolawole85/CYBERSECURITY-HOME-LAB/tree/main) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
 | 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
