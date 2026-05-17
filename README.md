@@ -45,7 +45,7 @@ tests
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/Kolawole85/CYBERSECURITY-HOME-LAB/tree/main) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/Kolawole85/Active-Directory-simulation) |
 | 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
-| 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/Kolawole85/security-policy-dev-project/upload/main) |
+| 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/Kolawole85/security-policy-dev-project/blob/main/KOLATECH.pdf) |
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View
 Repo](#) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
