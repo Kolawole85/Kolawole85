@@ -47,7 +47,7 @@ tests
 | 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/Kolawole85/security-policy-dev-project/blob/main/KOLATECH.pdf) |
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View
-Repo](#) |
+ Repo](#) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
@@ -56,7 +56,7 @@ Repo](#) |
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
-|
+| 14 cloud-security-implementation-project | [View Repo](#) |
 ---
 ## Contact
 - **LinkedIn:** [click here](https://www.linkedin.com/in/kolawole-olasunkanmi-3a92b9211/)
