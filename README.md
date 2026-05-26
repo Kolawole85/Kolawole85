@@ -55,7 +55,7 @@ tests
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
-| 14 cloud-security-implementation-project | [View Repo](https://github.com/Kolawole85/Cloud-Security-Implementation-Project/tree/main/screenshots) |
+| 14 cloud-security-implementation-project | [View Repo](https://github.com/Kolawole85/Cloud-Security-Implementation-Project/blob/main/Cloud%20Security%20Project%20ISO%20NIST%20CIS%20(3)%20kolatech.pdf) |
 ---
 ## Contact
 - **LinkedIn:** [click here](https://www.linkedin.com/in/kolawole-olasunkanmi-3a92b9211/)
