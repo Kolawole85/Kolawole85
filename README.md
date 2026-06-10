@@ -1,5 +1,5 @@
 # Kolawole Olasunkanmi – Cybersecurity Analyst
-👋 Hello! I’m Kolawole Olasunkanmi, a results-driven Cybersecurity Analyst with two years of
+👋 Hello! I’m Kolawole Olasunkanmi, a results-driven Cybersecurity Analyst with three years of
 experience protecting cloud and on-prem infrastructures. My work focuses on threat detection,
 vulnerability management, and continuous security monitoring. This repository gathers the lab
 projects and reference guides that demonstrate my technical depth and commitment to secure-
@@ -12,22 +12,17 @@ by-design principles.
 - **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs
 ### Vulnerability & Risk Management
 - **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies
-- **Vulnerability Assessment** – Network and web application scans with Nmap, Nessus and
-Nikto
+- **Vulnerability Assessment** – Network and web application scans with Nmap, Nessus and Nikto
 - **Risk Assessment & CIA Impact Mapping** – Risk matrix and treatment recommendations
 ### Detection & Monitoring
-- **Network Monitoring & Log Analysis** – Dashboards in Security Onion and Splunk
 - **Linux Permissions Audit** – Identifying and correcting misconfigurations and SUID issues
-- **Suricata IDS Deployment** – Signature-based intrusion detection
-- **Honeypot Deployment** – Capturing and analysing attacker behaviour
 ### Threat Hunting & Framework Mapping
 - **MITRE ATT&CK Hunt Sprint** – ATT&CK Navigator-driven queries and detections
 ### Social Engineering Defence
 - **Phishing Attack Simulation** – Campaign metrics via GoPhish or Zphisher
 - **Phishing Email Forensics** – Header analysis with SPF, DKIM, DMARC validation
 ### Offensive Security Simulations
-- **SQL Injection & DDoS Simulation** – Exploitation with sqlmap and low-volume slowloris
-tests
+- **SQL Injection & DDoS Simulation** – Exploitation with sqlmap and low-volume slowloris tests
 ### Malware & Exploit Analysis
 - **Malware Static & Dynamic Analysis** – strings, PE-Studio, Cuckoo sandbox
 - **Malicious PDF Analysis** – Payload extraction and script dissection
@@ -44,18 +39,17 @@ tests
 |--------|-------------|------|
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/Kolawole85/CYBERSECURITY-HOME-LAB/tree/main) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/Kolawole85/Active-Directory-simulation) |
-| 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
-| 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/Kolawole85/security-policy-dev-project/blob/main/KOLATECH.pdf) |
-| 05-vulnerability-assessment | Network and web-app- scanning with Nessus and Nmap | [View Repo](#) |
-| 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
-| 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
-| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
-| 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
-| 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
+| 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/Kolawole85/security-policy-dev-project/blob/main/KOLATECH.pdf) 
+| 05-AWS-deployment|Configuration and hardening Cloud console in AWS| [View Repo](https://github.com/Kolawole85/Cloud-Security-Implementation-Project/blob/main/Cloud%20Security%20Project%20ISO%20NIST%20CIS%20(3)%20kolatech.pdf) ||
+| 06-vulnerability-assessment | Network and web-app- scanning with Nessus and Nmap | [View Repo](#) |
+| 07-mitre-threat-hunt | ATT&CK-aligned threat hunting srcipts| [View Repo](#) |
+| 08-phishing -simulation| Lab-based phishing campaign and metrics| [View Repo](#) |
+| 09-phishing -email-forensic | Email header and domin analysis toolki| [View Repo](#) |
+| 10-linux-permissions-audit |Identifying world-writable and SUID files| [View Repo](#) |
+| 11-Threat-Modeling | Threat Dragon and Window Threat Modeling Tool | [View Repo](#) |
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
-| 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
-| 14 cloud-security-implementation-project | [View Repo](https://github.com/Kolawole85/Cloud-Security-Implementation-Project/blob/main/Cloud%20Security%20Project%20ISO%20NIST%20CIS%20(3)%20kolatech.pdf) |
+
 ---
 ## Contact
 - **LinkedIn:** [click here](https://www.linkedin.com/in/kolawole-olasunkanmi-3a92b9211/)
