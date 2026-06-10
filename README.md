@@ -47,7 +47,7 @@ by-design principles.
 | 07-mitre-threat-hunt | ATT&CK-aligned threat hunting srcipts| [View Repo](https://github.com/Kolawole85/mitre-threat-hunt) |
 | 08-phishing -simulation| Lab-based phishing campaign and metrics| [View Repo](https://github.com/Kolawole85/phishing-simulation) |
 | 09-phishing -email-forensic | Email header and domin analysis toolkit| [View Repo](https://github.com/Kolawole85/phishing--email--forensic) |
-| 10-linux-permissions-audit |Identifying world-writable and SUID files| [View Repo](#) |
+| 10-linux-permissions-audit |Identifying world-writable and SUID files| [View Repo](https://github.com/Kolawole85/linux-permission-audit) |
 | 11-Threat-Modeling | Threat Dragon and Window Threat Modeling Tool | [View Repo](#) |
 | 12-malware-analysis | Static and dynamic malware triage | [View Repo](https://github.com/Kolawole85/Malware-analysis.) |
 
