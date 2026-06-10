@@ -39,16 +39,17 @@ by-design principles.
 |--------|-------------|------|
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/Kolawole85/CYBERSECURITY-HOME-LAB/tree/main) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/Kolawole85/Active-Directory-simulation) |
+| 03-AWS-deployment|Configuration and hardening Cloud console in AWS| [View Repo](https://github.com/Kolawole85/Cloud-Security-Implementation-Project/blob/main/Cloud%20Security%20Project%20ISO%20NIST%20CIS%20(3)%20kolatech.pdf) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/Kolawole85/security-policy-dev-project/blob/main/KOLATECH.pdf) 
-| 05-AWS-deployment|Configuration and hardening Cloud console in AWS| [View Repo](https://github.com/Kolawole85/Cloud-Security-Implementation-Project/blob/main/Cloud%20Security%20Project%20ISO%20NIST%20CIS%20(3)%20kolatech.pdf) ||
-| 06-vulnerability-assessment | Network and web-app- scanning with Nessus and Nmap | [View Repo](#) |
+| |
+| 05-vulnerability-assessment | Network and web-app- scanning with Nessus and Nmap | [View Repo](#) |
+| 06-risk-assessment|CIA impact mapping and risk matrics |View Repo[](#) |
 | 07-mitre-threat-hunt | ATT&CK-aligned threat hunting srcipts| [View Repo](#) |
 | 08-phishing -simulation| Lab-based phishing campaign and metrics| [View Repo](#) |
 | 09-phishing -email-forensic | Email header and domin analysis toolki| [View Repo](#) |
 | 10-linux-permissions-audit |Identifying world-writable and SUID files| [View Repo](#) |
 | 11-Threat-Modeling | Threat Dragon and Window Threat Modeling Tool | [View Repo](#) |
-| 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
-| 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
+| 12-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 
 ---
 ## Contact
