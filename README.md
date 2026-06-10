@@ -43,7 +43,7 @@ by-design principles.
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/Kolawole85/security-policy-dev-project/blob/main/KOLATECH.pdf) 
 | |
 | 05-vulnerability-assessment | Network and web-app- scanning with Nessus and Nmap | [View Repo](https://github.com/Kolawole85/Vulnerability-Assessment) |
-| 06-risk-assessment|CIA impact mapping and risk matrics |[View Repo](#) |
+| 06-risk-assessment|CIA impact mapping and risk matrics |[View Repo](https://github.com/Kolawole85/Risk-Assessment-) |
 | 07-mitre-threat-hunt | ATT&CK-aligned threat hunting srcipts| [View Repo](#) |
 | 08-phishing -simulation| Lab-based phishing campaign and metrics| [View Repo](#) |
 | 09-phishing -email-forensic | Email header and domin analysis toolki| [View Repo](#) |
