@@ -49,7 +49,7 @@ by-design principles.
 | 09-phishing -email-forensic | Email header and domin analysis toolkit| [View Repo](https://github.com/Kolawole85/phishing--email--forensic) |
 | 10-linux-permissions-audit |Identifying world-writable and SUID files| [View Repo](#) |
 | 11-Threat-Modeling | Threat Dragon and Window Threat Modeling Tool | [View Repo](#) |
-| 12-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
+| 12-malware-analysis | Static and dynamic malware triage | [View Repo](https://github.com/Kolawole85/Malware-analysis.) |
 
 ---
 ## Contact
